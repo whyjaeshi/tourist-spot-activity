@@ -1,0 +1,77 @@
+.header {
+    border: 1px solid black;
+    background-image: url(kawasan2.jpeg);
+    background-position: center;
+    background-size: unset;
+    padding: 10px;
+    margin: auto;
+    width: auto;
+    height: 100px;
+}
+
+.navbar {
+    margin-top: 10px;
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration-color: black;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: tan;
+    font-size: 65px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+h2 {
+    font-size: xx-large;
+    margin-left: 150px;
+}
+
+h3 {
+    font-size: x-large;
+    margin-left: 150px;
+}
+
+p {
+    font-size: medium;
+    margin-left: 150px;
+    margin-right: 750px;
+}
+
+img {
+    float: right;
+    width: 500px;
+    height: 750px;
+}
+
+.img2 {
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin-right: 150px;
+}
+
+.windmill {
+    float: left;
+    margin-left: 150px;
+}
+
+.pinatubo {
+    padding: 30px;
+    float: right;
+    margin-right: 119px;
+}
